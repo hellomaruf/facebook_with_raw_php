@@ -460,10 +460,10 @@
                       </li>
                     </ul>
                   </div>
-                  <a href="#">Kajal Datta, Sufia Sepu and 550 others</a>
+                  <a href="#">Kajal Datta, Sufia Sepu and <?php echo $facebookPost['likes'] ?> others</a>
                 </div>
                 <div class="counts">
-                  <a href="#">95 Comments</a>
+                  <a href="#">22 Comments</a>
                 </div>
               </div>
               <div class="divider-0"></div>
